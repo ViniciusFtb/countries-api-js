@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/countries-api-js/static/js/main.4cc33d16.js",
+    "static/media/lupa.svg": "/countries-api-js/static/media/lupa.9017789c778135d31a6e365044abe982.svg",
+    "index.html": "/countries-api-js/index.html",
+    "static/media/moon.svg": "/countries-api-js/static/media/moon.ed14e62383eee27a57c447e80da2f840.svg",
+    "static/media/moon_dark.svg": "/countries-api-js/static/media/moon_dark.18e761ef8e54a341bc25e1d83901b3a3.svg",
+    "static/media/arrow.svg": "/countries-api-js/static/media/arrow.a060a4cb67aef58fd34755898d8033eb.svg",
+    "main.4cc33d16.js.map": "/countries-api-js/static/js/main.4cc33d16.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4cc33d16.js"
+  ]
+}
